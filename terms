@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>利用規約 - GAS pedia</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.8;
+      color: #333;
+      background-color: #fff;
+      padding: 20px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 24px;
+      font-weight: 700;
+      margin-bottom: 8px;
+      color: #1a73e8;
+    }
+    .app-name {
+      font-size: 14px;
+      color: #666;
+      margin-bottom: 24px;
+    }
+    .last-updated {
+      font-size: 13px;
+      color: #888;
+      margin-bottom: 32px;
+    }
+    h2 {
+      font-size: 18px;
+      font-weight: 600;
+      margin-top: 32px;
+      margin-bottom: 12px;
+      color: #202124;
+    }
+    p {
+      margin-bottom: 16px;
+      color: #444;
+    }
+    ul {
+      margin-left: 24px;
+      margin-bottom: 16px;
+    }
+    li {
+      margin-bottom: 8px;
+      color: #444;
+    }
+    .important {
+      background-color: #fff3cd;
+      border-left: 4px solid #ffc107;
+      padding: 16px;
+      margin: 24px 0;
+    }
+    footer {
+      margin-top: 48px;
+      padding-top: 24px;
+      border-top: 1px solid #e0e0e0;
+      text-align: center;
+      color: #888;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <h1>利用規約</h1>
+  <p class="app-name">GAS pedia - Google Apps Script日本語リファレンス</p>
+  <p class="last-updated">最終更新日: 2026年1月27日</p>
+
+  <p>本利用規約（以下「本規約」）は、GAS pedia（以下「本アプリ」）の利用条件を定めるものです。本アプリをご利用いただく前に、本規約をよくお読みください。</p>
+
+  <h2>第1条（適用）</h2>
+  <p>本規約は、ユーザーと本アプリの提供者（以下「当方」）との間の本アプリの利用に関わる一切の関係に適用されます。</p>
+
+  <h2>第2条（利用条件）</h2>
+  <p>ユーザーは、本アプリを以下の条件に従って利用するものとします：</p>
+  <ul>
+    <li>本アプリは、Google Apps Scriptの学習を目的とした参考資料として提供されます</li>
+    <li>本アプリの内容は、教育目的でのみ使用してください</li>
+    <li>本アプリのコンテンツを無断で複製、配布、販売することは禁止されています</li>
+  </ul>
+
+  <div class="important">
+    <h2>第3条（免責事項）</h2>
+    <p>本アプリはGoogleの非公式アプリであり、Google LLCとは一切関係ありません。</p>
+    <p>本アプリに掲載されている情報は、正確性を期していますが、その完全性、正確性、有用性を保証するものではありません。</p>
+    <p>本アプリの利用により生じたいかなる損害についても、当方は一切の責任を負いません。</p>
+  </div>
+
+  <h2>第4条（知的財産権）</h2>
+  <p>本アプリに含まれるすべてのコンテンツ（テキスト、画像、アイコン、コード例など）の著作権は、当方または正当な権利者に帰属します。</p>
+  <p>「Google Apps Script」「Google」「Gmail」「Google Drive」「Google Calendar」「Google Docs」「Google Slides」「Google Forms」は、Google LLCの商標または登録商標です。</p>
+
+  <h2>第5条（禁止事項）</h2>
+  <p>ユーザーは、本アプリの利用にあたり、以下の行為を行ってはなりません：</p>
+  <ul>
+    <li>本アプリのコンテンツを無断で複製、改変、配布、販売する行為</li>
+    <li>本アプリのリバースエンジニアリング、逆コンパイル、逆アセンブル</li>
+    <li>本アプリの運営を妨害する行為</li>
+    <li>その他、当方が不適切と判断する行為</li>
+  </ul>
+
+  <h2>第6条（サービスの変更・終了）</h2>
+  <p>当方は、ユーザーに事前に通知することなく、本アプリの内容を変更し、または本アプリの提供を終了することができるものとします。</p>
+
+  <h2>第7条（利用規約の変更）</h2>
+  <p>当方は、必要と判断した場合には、ユーザーに通知することなく本規約を変更することができるものとします。変更後の利用規約は、本アプリ内に掲示した時点から効力を生じるものとします。</p>
+
+  <h2>第8条（準拠法・裁判管轄）</h2>
+  <p>本規約の解釈にあたっては、日本法を準拠法とします。本アプリに関して紛争が生じた場合には、当方の所在地を管轄する裁判所を専属的合意管轄とします。</p>
+
+  <footer>
+    <p>© 2026 GAS pedia. All rights reserved.</p>
+    <p>※本アプリはGoogleの非公式アプリです。</p>
+  </footer>
+</body>
+</html>
