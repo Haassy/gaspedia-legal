@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>プライバシーポリシー - GAS pedia</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.8;
+      color: #333;
+      background-color: #fff;
+      padding: 20px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 24px;
+      font-weight: 700;
+      margin-bottom: 8px;
+      color: #1a73e8;
+    }
+    .app-name {
+      font-size: 14px;
+      color: #666;
+      margin-bottom: 24px;
+    }
+    .last-updated {
+      font-size: 13px;
+      color: #888;
+      margin-bottom: 32px;
+    }
+    h2 {
+      font-size: 18px;
+      font-weight: 600;
+      margin-top: 32px;
+      margin-bottom: 12px;
+      color: #202124;
+    }
+    p {
+      margin-bottom: 16px;
+      color: #444;
+    }
+    ul {
+      margin-left: 24px;
+      margin-bottom: 16px;
+    }
+    li {
+      margin-bottom: 8px;
+      color: #444;
+    }
+    .contact {
+      margin-top: 40px;
+      padding: 20px;
+      background-color: #f8f9fa;
+      border-radius: 8px;
+    }
+    .contact h2 {
+      margin-top: 0;
+    }
+    footer {
+      margin-top: 48px;
+      padding-top: 24px;
+      border-top: 1px solid #e0e0e0;
+      text-align: center;
+      color: #888;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <h1>プライバシーポリシー</h1>
+  <p class="app-name">GAS pedia - Google Apps Script日本語リファレンス</p>
+  <p class="last-updated">最終更新日: 2026年1月27日</p>
+
+  <p>本プライバシーポリシーは、GAS pedia（以下「本アプリ」）における個人情報の取り扱いについて説明します。</p>
+
+  <h2>1. 収集する情報</h2>
+  <p>本アプリは、ユーザーの個人情報を収集しません。</p>
+  <p>本アプリで保存されるデータ（学習進捗、ブックマーク、設定など）は、すべてユーザーのデバイス内にローカル保存され、外部サーバーには送信されません。</p>
+
+  <h2>2. データの保存</h2>
+  <p>本アプリは以下のデータをデバイス内に保存します：</p>
+  <ul>
+    <li>学習進捗（完了したメソッド、閲覧履歴）</li>
+    <li>ブックマーク</li>
+    <li>アプリ設定（オンボーディング完了状態など）</li>
+  </ul>
+  <p>これらのデータはデバイスのローカルストレージに保存され、アプリをアンインストールすると削除されます。</p>
+
+  <h2>3. 第三者への提供</h2>
+  <p>本アプリは、ユーザーのデータを第三者に提供、販売、共有することはありません。</p>
+
+  <h2>4. 分析ツール</h2>
+  <p>本アプリは、アプリの改善を目的として、クラッシュレポートを収集する場合があります。収集される情報は以下の通りです：</p>
+  <ul>
+    <li>クラッシュ時のエラー情報</li>
+    <li>デバイスの種類、OSバージョン</li>
+  </ul>
+  <p>これらの情報には個人を特定できる情報は含まれません。</p>
+
+  <h2>5. 子どものプライバシー</h2>
+  <p>本アプリは、13歳未満の子どもから意図的に個人情報を収集することはありません。</p>
+
+  <h2>6. プライバシーポリシーの変更</h2>
+  <p>本プライバシーポリシーは、必要に応じて更新されることがあります。重要な変更がある場合は、アプリ内で通知します。</p>
+
+  <div class="contact">
+    <h2>7. お問い合わせ</h2>
+    <p>本プライバシーポリシーに関するご質問やご意見がございましたら、以下までお問い合わせください。</p>
+    <p>メール: [お問い合わせメールアドレス]</p>
+  </div>
+
+  <footer>
+    <p>© 2026 GAS pedia. All rights reserved.</p>
+    <p>※本アプリはGoogleの非公式アプリです。</p>
+  </footer>
+</body>
+</html>
